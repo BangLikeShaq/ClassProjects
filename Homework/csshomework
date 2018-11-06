@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> CSS Homework</title>
+  <link/>
+</head>
+<body>
+  <div>
+    <table>
+     <tr>
+      <td>Red</td>
+        <td>Yellow</td>
+        </tr>
+        <tr>
+          <td>Blue</td>
+          <td>Green</td>
+          </tr>
+        </table>
+
+
+
+
+
+
+  </div>
+  <div>
+  </div>
+  </body>
+</html>
